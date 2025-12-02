@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+env/
+*.pyc
+
+# Do not track downloaded datasets or large artifacts
+data/
+outputs/
+*.pth
+*.tar
+*.tar.gz
+
+
